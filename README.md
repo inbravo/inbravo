@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Dixit
-- 👀 I’m interested in Data Engineering, Data Science, Architecture & Design Strategies
+- 👀 I’m interested in Data Engineering, LLMs, Architecture & Design Strategies
 
 <!---
 inbravo/inbravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
