@@ -11,10 +11,7 @@ I’m a **Consultant** focused on modernizing data platforms and designing scala
 
 ## 🔧 Skills & Technologies
 
-[Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)  
-[Cloud]()  
-[AI & ML]()  
-[Architecture]()
+[Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue) | [Cloud]()  | [AI & ML]()  | [Architecture]()
 
 ## 📚 Current Interests
 
