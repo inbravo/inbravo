@@ -5,13 +5,9 @@
 💻 **Specialized in Data Platform Modernization**  
 👀 Passionate about **Data Engineering**, **LLMs**, and **Architecture & Design Strategies**
 
-***
-
 ## 🌟 About Me
 
 I’m a **Consultant** focused on modernizing data platforms and designing scalable, high-performance architectures. My mission is to help organizations leverage **data engineering** and **AI-driven solutions** for innovation and efficiency.
-
-***
 
 ## 🔧 Skills & Technologies
 
@@ -21,15 +17,11 @@ I’m a **Consultant** focused on modernizing data platforms and designing scala
 [AI & ML]()  
 [Architecture]()
 
-***
-
 ## 📚 Current Interests
 
 *   Generative AI applications in enterprise solutions
 *   Scalable data architectures for modern businesses
 *   Strategies for AI adoption across industries
-
-***
 
 ## 📫 Connect With Me
 
