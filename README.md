@@ -13,7 +13,6 @@ I’m a **Consultant** focused on modernizing data platforms and designing scala
 
 [Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)  
 [Cloud]()  
-[Big Data]()  
 [AI & ML]()  
 [Architecture]()
 
