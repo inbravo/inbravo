@@ -18,6 +18,3 @@ I’m a **Consultant** focused on modernizing data platforms and designing scala
 *   Generative AI applications in enterprise solutions
 *   Scalable data architectures for modern businesses
 *   Strategies for AI adoption across industries
-
-## 📫 Connect With Me | [LinkedIn](https://www.linkedin.com/in/inbravo)
-
