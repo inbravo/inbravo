@@ -7,7 +7,7 @@
 
 I’m a **Consultant** focused on modernizing data platforms and designing scalable, high-performance architectures. My mission is to help organizations leverage **data engineering** and **AI-driven solutions** for innovation and efficiency.
 
-### 🔧 Skills & Technologies: Data & AI | Design & Architecture
+### 🔧 Skills & Technologies: Data & AI | Solution Design & Architecture | Presales
 
 ### 📚 Current Interests
 
