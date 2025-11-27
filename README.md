@@ -1,5 +1,3 @@
-***
-
 # 👋 Hi, I’m Amit Dixit
 
 💻 **Specialized in Data Platform Modernization**  
