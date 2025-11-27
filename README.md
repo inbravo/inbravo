@@ -9,11 +9,9 @@
 
 I’m a **Consultant** focused on modernizing data platforms and designing scalable, high-performance architectures. My mission is to help organizations leverage **data engineering** and **AI-driven solutions** for innovation and efficiency.
 
-## 🔧 Skills & Technologies
+### 🔧 Skills & Technologies: Data & AI | Design & Architecture
 
-[Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue) | [Cloud]()  | [AI & ML]()  | [Architecture]()
-
-## 📚 Current Interests
+### 📚 Current Interests
 
 *   Generative AI applications in enterprise solutions
 *   Scalable data architectures for modern businesses
