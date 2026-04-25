@@ -1,6 +1,6 @@
 # Amit Dixit
 
-Presales Architect — 21 years in enterprise technology,
+Principal Architect — 21 years in enterprise technology,
 specializing in **Context Engineering** and **legacy estate modernization** for BFSI.
 
 ---
@@ -32,15 +32,6 @@ helping enterprise buyers move from problem recognition to funded programme.
 
 ---
 
-## Why Semantics Matter in Modernization
-
-Legacy estates fail AI not because of platform — but because meaning is locked
-in code, tribal knowledge, and free-text fields. Semantic modelling — ontologies,
-semantic layers, and machine-readable contracts — is what turns a migrated
-workload into an asset an agent can actually trust and reason over.
-
----
-
 ## Stack
 
 `Databricks` `Snowflake` `GCP` `Python` `SQL`  
@@ -51,6 +42,8 @@ workload into an asset an agent can actually trust and reason over.
 
 ## Currently Exploring
 
+- **Semantics ready agentic world** by unlocking the business meaning from the code, tribal knowledge, and free-text fields. Semantic modelling — ontologies,
+semantic layers, and machine-readable contracts — is what turns a migrated workload into an asset an agent can actually trust and reason over.
 - **Model Context Protocol (MCP)** as an emerging enterprise standard for
   connecting agents to governed data sources at scale
 - **GraphRAG** — knowledge graph-augmented retrieval for regulatory and
