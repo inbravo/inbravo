@@ -9,13 +9,6 @@
 
 Working with Tier-1 European banks and G-SIBs across:
 
-- **Regulatory Reporting & Data Lineage (RegTech)**
-  Regulators mandate traceable lineage — free-text transformation rules fail BCBS 239
-  audits, break AI reasoning, and expose banks to material fines. Modernizing Basel III/IV,
-  BCBS 239, FRTB, CRR3, and COREP pipelines with machine-readable lineage contracts that
-  surface hidden dependencies before migration, satisfy Principle 2 automatically, and make
-  every regulatory data asset trustworthy enough for an agent to reason over.
-
 - **Analytics Estate Exit (SAS)**
   Migrating SAS workloads — Base SAS, SAS/STAT, DI Studio, Model Manager, Visual Analytics,
   Viya, and AML suites — to Databricks and Snowflake using automated transpilation and
@@ -36,6 +29,13 @@ Working with Tier-1 European banks and G-SIBs across:
   cloud-native pipeline orchestration — extracting decades of embedded business logic
   into testable, versioned, agent-consumable services while preserving SLA contracts
   and gaining full observability.
+
+- **Regulatory Reporting & Data Lineage (RegTech)**
+  Regulators mandate traceable lineage — free-text transformation rules fail BCBS 239
+  audits, break AI reasoning, and expose banks to material fines. Modernizing Basel III/IV,
+  BCBS 239, FRTB, CRR3, and COREP pipelines with machine-readable lineage contracts that
+  surface hidden dependencies before migration, satisfy Principle 2 automatically, and make
+  every regulatory data asset trustworthy enough for an agent to reason over.
 
 ---
 
