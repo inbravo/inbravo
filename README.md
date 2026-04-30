@@ -5,7 +5,7 @@
 
 ---
 
-## BFSI Depth
+## Expertise
 
 Working with Tier-1 European banks and G-SIBs across:
 
