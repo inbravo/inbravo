@@ -1,6 +1,6 @@
 # Amit Dixit
 
-- Principal Architect — 21 years in tech space (`C/C++` → `Java/Scala` → `Python/TypeScript` → `Prompt/Agent`)
+- Principal Architect — 21 years in tech space (`C/C++` → `Java/Scala` → `Python/TypeScript` → `AI/Agent`)
 - Specializing in **context engineering** and **legacy estate modernization**.
 
 ---
