@@ -57,7 +57,7 @@ helping enterprise buyers move from problem recognition to funded programme.
 ## Stack
 
 `Databricks` `Snowflake` `GCP` `Python` `SQL`  
-`Basel III/IV` `BCBS 239` `FRTB` `Medallion Architecture` `Data Mesh` `Knowledge Graphs`
+`Data Mesh` `Knowledge Graphs` 
 
 ---
 
