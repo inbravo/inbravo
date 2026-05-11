@@ -1,6 +1,6 @@
 # Amit Dixit
 
-- Technical Architect — 21 years in tech (`C/C++` → `Java/Scala` → `Python` → `AI/Agent`), which is roughly 4 careers in dog years
+- 21 years in tech (`C/C++` → `Java/Scala` → `Python` → `AI/Agent`), which is roughly 4 careers in dog years
 - Specializing in making AI understand what you meant, and making legacy systems understand it's time
 
 ---
