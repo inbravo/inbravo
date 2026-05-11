@@ -69,19 +69,6 @@
   model sits across that stack in a BCBS 239-compliant architecture.
   Ignoring both is just vendor lock-in with better branding
 
-- **GraphRAG in regulatory domains** — where the lineage path between data
-  points *is* the audit trail, and similarity search alone is not enough.
-  Regulators care about the journey, not just the destination
-
-- **Sovereign AI in BFSI** — foundation model vendor selection as an
-  architecture and governance decision for Tier-1 banks operating under
-  EU AI Act and CRR3; not a procurement conversation, however much
-  the vendor would prefer it to be
-
-- **Deterministic guardrails in agentic workflows** — where in a regulated
-  pipeline autonomy ends and guaranteed, ordered, auditable execution begins.
-  Somewhere between "the agent decides" and "the regulator decides for you"
-
 ---
 
 ## Stack
