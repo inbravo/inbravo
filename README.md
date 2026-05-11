@@ -2,7 +2,9 @@
 
 - 21 years in tech (`C/C++` → `Java/Scala` → `Python` → `AI/Agent`) — roughly 4 careers in dog years
 - Specializing in making AI understand what you *meant*, and making legacy systems understand it's *time*
-- Working with Tier-1 European banks on the two problems that quietly block enterprise AI: **Context you can't Trust** and **Estates too brittle to Modernize**.
+- Working with Tier-1 European banks on the two problems that quietly block enterprise AI
+  - Context you can't Trust.
+  - Estates too brittle to Modernize.
 
 📍 London, UK · [LinkedIn](https://www.linkedin.com/in/amitnoida/)
 
