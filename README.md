@@ -1,96 +1,91 @@
 # Amit Dixit
 
-- 21 years in tech (`C/C++` → `Java/Scala` → `Python` → `AI/Agent`), which is roughly 4 careers in dog years
-- Specializing in making AI understand what you meant, and making legacy systems understand it's time
+- 21 years in tech (`C/C++` → `Java/Scala` → `Python` → `AI/Agent`) — roughly 4 careers in dog years
+- Specializing in making AI understand what you *meant*, and making legacy systems understand it's *time*
+- Working with Tier-1 European banks on the two problems that quietly block enterprise AI: **Context you can't Trust** and **Estates too brittle to Modernize**.
+
+📍 London, UK · [LinkedIn](https://www.linkedin.com/in/amitnoida/)
 
 ---
 
 ## Expertise
 
-Working with Tier-1 European banks and G-SIBs across:
-
-- **Analytics Estate Exit (SAS)**
+- **Analytics Estate Exit (SAS)**  
   Migrating SAS workloads — Base SAS, SAS/STAT, DI Studio, Model Manager, Visual Analytics,
-  Viya, and AML suites — to Databricks and Snowflake using automated transpilation and
-  semantic uplift, preserving statistical logic while eliminating platform lock-in.
+  Viya, and AML suites — to Databricks and Snowflake via automated transpilation and semantic
+  uplift. Statistical logic preserved; platform lock-in eliminated.
 
-- **EDW Exit (Teradata · Netezza · Oracle · MS SQL)**
-  Migrating large-scale EDW estates to Databricks and Snowflake — schema translation,
-  workload profiling, query optimization, and medallion architecture target design that
-  eliminates the performance and cost burden of on-premise warehousing.
+- **EDW Exit (Teradata · Netezza · Oracle · MS SQL)**  
+  Large-scale EDW migration to Databricks and Snowflake — schema translation, workload profiling,
+  query optimization, and medallion architecture design. The on-premise performance tax: cancelled.
 
-- **ETL & Integration Modernization (DataStage · Informatica · ODI · Talend)**
-  Retiring on-premise ETL platforms and re-engineering pipelines as cloud-native data
-  products — embedded data quality, machine-readable lineage contracts, and observable
-  orchestration replacing opaque batch jobs.
+- **ETL & Integration Modernization (DataStage · Informatica · ODI · Talend)**  
+  Retiring legacy ETL and re-engineering pipelines as cloud-native data products — embedded data
+  quality, machine-readable lineage contracts, observable orchestration. Opaque batch jobs not invited.
 
-- **Mainframe & Batch Orchestration Exit (COBOL · JCL · AutoSys · Control-M · OPC · UC4)**
-  Modernizing mainframe-bound workloads and legacy job schedulers into event-driven,
-  cloud-native pipeline orchestration — extracting decades of embedded business logic
-  into testable, versioned, agent-consumable services while preserving SLA contracts
-  and gaining full observability.
+- **Mainframe & Batch Orchestration Exit (COBOL · JCL · AutoSys · Control-M · OPC · UC4)**  
+  Extracting decades of embedded business logic from mainframe-bound workloads into testable,
+  versioned, agent-consumable services — SLA contracts preserved, full observability gained.
 
-- **Regulatory Reporting & Data Lineage (RegTech)**
-  Regulators mandate traceable lineage — free-text transformation rules fail BCBS 239
-  audits, break AI reasoning, and expose banks to material fines. Modernizing Basel III/IV,
-  BCBS 239, FRTB, CRR3, and COREP pipelines with machine-readable lineage contracts that
-  surface hidden dependencies before migration, satisfy Principle 2 automatically, and make
-  every regulatory data asset trustworthy enough for an agent to reason over.
+- **Regulatory Reporting & Data Lineage (RegTech)**  
+  BCBS 239, Basel III/IV, FRTB, CRR3, COREP — modernized with machine-readable lineage contracts
+  that surface hidden dependencies before migration, satisfy Principle 2 automatically, and produce
+  data assets trustworthy enough for an agent to reason over. Because regulators don't accept
+  *"it was like that when we got here"*.
 
----
-
-## What I Work On
-
-I work at the boundary between technical architecture and commercial decision-making —
-helping enterprise buyers move from problem recognition to funded programme.
-
-- **Context Engineering**
-  Designing context supply chains for enterprise AI — semantic models, data contracts,
-  knowledge graphs, and retrieval pipelines that give agents accurate, governed, auditable answers.
-
-- **Legacy Estate Modernization**
-  Architecture, scoping, and automated discovery across a broad range of on-premise platforms —
-  mainframe, SAS, legacy EDW and ETL — into modern cloud-native data products.
-
----
-
-## Stack
-
-`Databricks` `Snowflake` `GCP` `Python` `SQL`  
-`Data Mesh` `Knowledge Graphs` 
+- **Context Engineering**  
+  Designing context supply chains for enterprise AI — semantic models, data contracts, knowledge
+  graphs, and retrieval pipelines that give agents accurate, governed, auditable answers.
+  Garbage in, hallucination out. This is the fix.
 
 ---
 
 ## Currently Exploring
 
-- **Semantic layer as the missing link** — ontologies, OWL/RDF models, and
-  machine-readable contracts that turn migrated estates into assets an agent
-  can actually trust and reason over, without platform lock-in
-- **Model Context Protocol (MCP)** as an emerging enterprise standard for
-  connecting agents to governed data sources at scale
-- **GraphRAG** — knowledge graph-augmented retrieval for regulatory and
-  compliance domains where relationship traversal matters as much as similarity search
-- **Agentic RAG vs. long-context tradeoffs** — when retrieval pipelines
-  outperform brute-force context stuffing in regulated, high-stakes domains
-- **Context evaluation frameworks** — measuring context quality, coverage gaps,
-  and hallucination risk before agents reach production
-- **Agentic memory architectures** — designing episodic and semantic memory
-  layers that let enterprise agents learn from feedback without retraining
+- **Composite semantic layers** — coordinating semantically-driven
+  artifacts across a heterogeneous estate rather than chasing the universal
+  semantic layer that never arrives; OSI compliance as a non-negotiable
+  evaluation criterion for any target architecture from 2026 onwards
+
+- **Semantic portability** — designing exit-readiness into vendor-managed
+  semantic layers before migration commits, not after. Snowflake Cortex,
+  Databricks Unity Catalog, and Google Agentic Data Cloud all have the same
+  lock-in surface as the platforms they replaced. New labels, familiar trap
+
+- **Semantic observability** — detecting semantic drift in agent-interpreted
+  business logic before it surfaces as a Principle 2 breach, not after the
+  auditor asks why the number changed. Auditors do not accept "the model
+  seemed confident"
+
+- **Semantic-first agentic AI** — agent-ready target architectures where
+  governed semantic models are the query surface, not raw tables; the
+  difference between a migration that enables AI and one that merely
+  moves the problem to the cloud at three times the cost
+
+- **MCP + A2A** — vertical agent-to-tool and horizontal agent-to-agent
+  protocol adoption in regulated estates; where the governance and identity
+  model sits across that stack in a BCBS 239-compliant architecture.
+  Ignoring both is just vendor lock-in with better branding
+
+- **GraphRAG in regulatory domains** — where the lineage path between data
+  points *is* the audit trail, and similarity search alone is not enough.
+  Regulators care about the journey, not just the destination
+
+- **Sovereign AI in BFSI** — foundation model vendor selection as an
+  architecture and governance decision for Tier-1 banks operating under
+  EU AI Act and CRR3; not a procurement conversation, however much
+  the vendor would prefer it to be
+
+- **Deterministic guardrails in agentic workflows** — where in a regulated
+  pipeline autonomy ends and guaranteed, ordered, auditable execution begins.
+  Somewhere between "the agent decides" and "the regulator decides for you"
 
 ---
 
-## Open to
+## Stack
 
-- Agentic architecture and Context Engineering assessments 
-- BFSI data estate modernization advisory
-- Agentic AI and legacy estate migration
+`Databricks` `Snowflake` `GCP` `Python` `SQL` `Data Mesh` `Knowledge Graphs`
 
 ---
-
-## Activity
 
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inbravo&show_icons=true&hide_title=true&count_private=true&theme=default)
-
----
-
-📍 London, UK &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/amitnoida/)
