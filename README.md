@@ -35,7 +35,7 @@
   data assets trustworthy enough for an agent to reason over. Because regulators don't accept
   *"it was like that when we got here"*.
 
-- **Context Engineering**  
+- **Context/Intent Engineering**  
   Designing context supply chains for enterprise AI — semantic models, data contracts, knowledge
   graphs, and retrieval pipelines that give agents accurate, governed, auditable answers.
   Garbage in, hallucination out. This is the fix.
