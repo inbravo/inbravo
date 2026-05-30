@@ -6,7 +6,7 @@
   - Context you can't Trust.
   - Estates too brittle to Modernize.
 
-📍 London, UK · [LinkedIn](https://www.linkedin.com/in/amitnoida/)
+📍 London, UK · [LinkedIn](https://www.linkedin.com/in/inbravo/)
 
 ---
 
