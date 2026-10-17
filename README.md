@@ -91,16 +91,7 @@
 
 ## Stack
 
-`Databricks` `Snowflake` `Microsoft Fabric` `GCP` `Python` `SQL` `dbt` `Knowledge Graphs` `LangGraph` `MCP` `Cedar` `MS AGT`
-
----
-
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inbravo&show_icons=true&hide_title=true&count_private=true&theme=default)
----
-
-## Stack
-
-`Databricks` `Snowflake` `GCP` `Python` `SQL` `Data Mesh` `Knowledge Graphs`
+`Databricks` `Snowflake` `Microsoft Fabric` `AWS` `Python` `SQL` `Knowledge Graphs` `LangGraph` `MCP` `Cedar` `MS AGT`
 
 ---
 
