@@ -64,9 +64,9 @@
   difference between a migration that enables AI and one that merely
   moves the problem to the cloud at three times the cost
 
-- **MCP + A2A** — vertical agent-to-tool and horizontal agent-to-agent
+- **AgentOS—Harness** — vertical agent-to-tool and horizontal agent-to-agent
   protocol adoption in regulated estates; where the governance and identity
-  model sits across that stack in a BCBS 239-compliant architecture.
+  model sits across that stack in compliant architecture.
   Ignoring both is just vendor lock-in with better branding
 
 ---
