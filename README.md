@@ -2,7 +2,7 @@
 
 - 20 years in tech [ `C/C++` → `Java/Scala/C#` → `Python` → `Agent ( context/intent/spec )` ] — roughly 4 careers in dog years
 - Currently evolving from legacy specialist to AI generalist — making AI understand what you *meant*, and making legacy systems understand it's *time*
-- Working with Tier-1 European banks on the two problems that quietly block enterprise AI
+- Working with Tier-1 European banks/ regulated enterprises on the two problems that quietly block enterprise AI
   - Context you can't Trust.
   - Estates too brittle to Modernize.
 
