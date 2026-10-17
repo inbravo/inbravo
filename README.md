@@ -1,6 +1,6 @@
 # Amit Dixit
 
-- 20 years in tech [ `C/C++` → `Java/Scala/C#` → `Python` → `Agent ( context/intent/spec )` ] — roughly 4 careers in dog years
+- 20 years in tech [ `C/C++` → `Java/Scala/C#` → `Python` → `Agent ( context/intent/spec )` ] — roughly 4 dog years, currently in production
 - Currently evolving from legacy specialist to AI generalist — making AI understand what you *meant*, and making legacy systems understand it's *time*
 - Working with Tier-1 European banks/ regulated enterprises on the three problems that quietly block enterprise AI
   - Context you can't Trust.
